@@ -1,3 +1,7 @@
 prima riga del file
  seminarioFile.txt
 ulteriore riga del file
+------------------
+riga di prova
+Nuova riga aggiunta sul testing
+
