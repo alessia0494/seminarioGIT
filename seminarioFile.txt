@@ -1,3 +1,3 @@
 prima riga del file
  seminarioFile.txt
-
+ulteriore riga del file
