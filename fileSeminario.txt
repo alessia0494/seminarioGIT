@@ -4,4 +4,3 @@ questo è un file di prova
 
  questa riga è stata aggiunta dal branch modified
 
- nuova riga
